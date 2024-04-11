@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D4D16AQHV2mZ4Gzz50A/profile-displaybackgroundimage-shrink_350_1400/0/1687626745833?e=1718236800&v=beta&t=yVl6TbglO4xBvSUcMuP4bsSjRDMPlneqVfbZWaiPxtM![image](https://github.com/ayushkumar912/ayushkumar912/assets/131906699/590691b5-8b66-459d-9418-f0f7492cb880)
+![image](https://github.com/ayushkumar912/ayushkumar912/assets/131906699/590691b5-8b66-459d-9418-f0f7492cb880)
 
 
 
