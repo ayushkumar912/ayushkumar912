@@ -3,6 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
+<h2 align="center">Student at 
+Indian Institute of Information Technology Vadodara </h2>
 <h3 align="center">A passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar912&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar912" /> </p>
