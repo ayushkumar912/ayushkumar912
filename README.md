@@ -1,47 +1,113 @@
-![image](https://github.com/ayushkumar912/ayushkumar912/assets/131906699/590691b5-8b66-459d-9418-f0f7492cb880)
+<div align="center">
+  <img src="https://github.com/ayushkumar912/ayushkumar912/assets/131906699/590691b5-8b66-459d-9418-f0f7492cb880" width="100%"/>
+</div>
 
+<h1 align="center">Hi there, I'm Ayush Kumar 👋</h1>
+<h3 align="center">Full-Stack Developer & Machine Learning Engineer</h3>
 
-
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h2 align="center">Student at 
-Indian Institute of Information Technology Vadodara </h2>
-<h3 align="center">A passionate Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkumar912&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkumar912" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkumar912" alt="ayushkumar912" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ayushkumar912" target="blank"><img src="https://img.shields.io/twitter/follow/ayushkumar912?logo=twitter&style=for-the-badge" alt="ayushkumar912" /></a> </p>
-
-- 🔭 I’m currently working on [Yelp-Camp](https://github.com/ayushkumar912/Yelp-Camp.git)
-
-- 🌱 I’m currently learning **Web 2.0 Technology**
-
-- 👯 I’m looking to collaborate on [Nexus](https://github.com/ayushkumar912/nexus.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ayushkumar912](https://github.com/ayushkumar912)
-
-- 💬 Ask me about **Competitive Programming,Web 2.0**
-
-- 📫 How to reach me **kumarayush912@icloud.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayushkumar912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushkumar912" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayushkumar912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushkumar912" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/ayush_kumar912" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_kumar912" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/ayush_kumar912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayush_kumar912" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush_kumar912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_kumar912" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushkumar912" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/ayushkumar912" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:kumarayush912@icloud.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkumar912&show_icons=true&locale=en&layout=compact" alt="ayushkumar912" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar912&" alt="ayushkumar912" /></p>
+I'm a Computer Science student at the **Indian Institute of Information Technology (IIIT), Vadodara**, passionate about the intersection of web technology and artificial intelligence. I thrive on building intelligent, scalable applications from the ground up. My experience spans from architecting responsive front-ends that have increased user engagement by **15%** to engineering novel deep learning models that solve complex classification problems with **94.5% accuracy**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkumar912&show_icons=true&locale=en" alt="ayushkumar912" /></p>
+- 🎓 **Education:** B.Tech in Computer Science & Engineering, IIIT Vadodara (Expected 2026).
+- 📜 **Certification:** Machine Learning Specialization - Stanford University.
+- 💡 **Interests:** AI/ML, Full-Stack Development, Blockchain, and Competitive Programming (3-Star CodeChef).
+- 🌱 **Leadership:** I enjoy fostering tech communities as a **Microsoft Learn Student Ambassador** and as the **Co-founder of the Droid Robotics Club**.
 
+---
 
+### ✨ Featured Projects
 
+Here are some of the projects I'm most proud of.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ CDM-based Fake Image Detection</h3>
+      <p>A novel deep learning system that detects colorized fake images with <strong>94.5% classification accuracy</strong>. The model's custom autoencoder architecture improved precision by <strong>12% over baseline CNNs</strong>.</p>
+      <p>
+        <strong>Tech Stack:</strong> Python, TensorFlow, OpenCV, Scikit-learn
+      </p>
+      <a href="https://github.com/ayushkumar912" target="_blank"><strong>View on GitHub →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 FishChain: Decentralized Fisheries Management</h3>
+      <p>Architected a decentralized supply chain system on the blockchain using Solidity smart contracts. This project ensures immutable tracking of fisheries data and enhances market efficiency, reducing transaction costs by a projected <strong>30%</strong>.</p>
+      <p>
+        <strong>Tech Stack:</strong> Solidity, Hardhat, Ethers.js, Express
+      </p>
+      <a href="https://github.com/ayushkumar912" target="_blank"><strong>View on GitHub →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Toddler Autism Prediction System</h3>
+      <p>Engineered a Flask-based machine learning app that predicts toddler autism risk with over <strong>85% accuracy</strong>. The system includes a robust feature extraction module that analyzes 10+ behavioral indicators, increasing model training efficiency by <strong>40%</strong>.</p>
+      <p>
+        <strong>Tech Stack:</strong> Python, Flask, Scikit-learn, Pandas
+      </p>
+      <a href="https://github.com/ayushkumar912" target="_blank"><strong>View on GitHub →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Full-Stack Internship Showcase</h3>
+      <p>Developed and optimized full-stack applications during internships, delivering significant business value. Key achievements include boosting admin workflow efficiency by <strong>30%</strong>, reducing developer onboarding time by <strong>50%</strong> through API documentation, and cutting manual testing efforts by <strong>40%</strong> via CI/CD pipelines.</p>
+      <p>
+        <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB, Jenkins
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Tech Stack
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+</p>
+
+#### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
+</p>
+
+#### Databases & Developer Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar912&show_icons=true&theme=dracula&rank_icon=github" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar912&theme=dracula" alt="Ayush's GitHub Streak" />
+</p>
