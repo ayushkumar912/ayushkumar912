@@ -20,7 +20,7 @@ I'm a Computer Science student at the **Indian Institute of Information Technolo
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering, IIIT Vadodara (Expected 2026).
 - 📜 **Certification:** Machine Learning Specialization - Stanford University.
-- 💡 **Interests:** AI/ML, Full-Stack Development, Blockchain, and Competitive Programming (3-Star CodeChef).
+- 💡 **Interests:** AI/ML, Backend Developer and Competitive Programming (3-Star CodeChef).
 - 🌱 **Leadership:** I enjoy fostering tech communities as a **Microsoft Learn Student Ambassador** and as the **Co-founder of the Droid Robotics Club**.
 
 ---
@@ -78,18 +78,19 @@ Here are some of the projects I'm most proud of.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+<!--   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/> -->
 </p>
 
 #### Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931A?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/>
+<!--   <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js"/> -->
 </p>
 
 #### Databases & Developer Tools
@@ -106,9 +107,11 @@ Here are some of the projects I'm most proud of.
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar912&show_icons=true&theme=dracula&rank_icon=github" alt="Ayush's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar912&theme=dracula" alt="Ayush's GitHub Streak" />
-</p>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar912&show_icons=true&theme=dracula&rank_icon=github" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar912&theme=dracula" alt="Ayush's GitHub Streak" /> -->
+ 
+<!--</p>
+-->
