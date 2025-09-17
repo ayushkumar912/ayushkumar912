@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">Hi there, I'm Ayush Kumar 👋</h1>
-<h3 align="center">Full-Stack Developer & Machine Learning Engineer</h3>
+<h3 align="center">**Backend Developer & Machine Learning Engineer (Mid-Level)**
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushkumar912" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
