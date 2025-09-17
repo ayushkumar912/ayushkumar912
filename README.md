@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Ayush Kumar 👋</h1>
-<h3 align="center">**Backend Developer & Machine Learning Engineer (Mid-Level)**
+<h3 align="center">Backend Developer & Machine Learning Engineer (Mid-Level)
 </h3>
 
 <p align="center">
