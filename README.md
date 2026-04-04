@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=200&section=header&text=Ayush%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Early-Career%20%7C%20Execution-Focused%20%7C%20Backend%20%26%20ML%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <h1 align="center">Hi there, I'm Ayush Kumar 👋</h1>
 <h3 align="center">Early-Career | Execution-Focused | Backend & ML Engineer</h3>
