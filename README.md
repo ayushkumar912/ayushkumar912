@@ -84,14 +84,6 @@ I'm a Computer Science student at the **Indian Institute of Information Technolo
 
 ---
 
-### Contribution Highlights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar912&show_icons=true&theme=dracula&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true" alt="Detailed GitHub Stats"/>
-</p>
-
----
-
 ###  GitHub Stats
 
 <p align="center">
