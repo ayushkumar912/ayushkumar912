@@ -107,11 +107,9 @@ Here are some of the projects I'm most proud of.
 
 ---
 
-<!-- ### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar912&show_icons=true&theme=dracula&rank_icon=github" alt="Ayush's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar912&theme=dracula" alt="Ayush's GitHub Streak" /> -->
- 
-<!--</p>
--->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar912&show_icons=true&theme=dracula&rank_icon=github" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar912&theme=dracula" alt="Ayush's GitHub Streak" />
+</p>
