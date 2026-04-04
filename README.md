@@ -15,6 +15,7 @@
   <a href="mailto:kumarayush912@icloud.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
   <a href="https://ayushkumar912.github.io/ayush-kumar_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://leetcode.com/u/ayush_kumar912/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.codechef.com/users/ayush_kumar198" target="_blank"><img src="https://img.shields.io/badge/CodeChef-3★%20|%20Max%201641-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </p>
 
 <p align="center">
@@ -33,6 +34,7 @@
   Role     : Software Development Intern @ Carboledger
   College  : IIIT Vadodara — B.Tech CSE (Expected 2026)
   Focus    : Backend Systems | AI/ML | Competitive Programming
+  Open To  : Full-Time SDE Roles (2026)
 
 ┌──(ayush㉿github)-[~]
 └─$ cat experience.txt
@@ -103,10 +105,16 @@
 
 ---
 
-### LeetCode Stats
+### Competitive Programming
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ayush_kumar912?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/ayush_kumar198" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-3★%20Coder%20|%20Max%20Rating%201641-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating"/>
+  </a>
 </p>
 
 ---
@@ -131,24 +139,24 @@
 
 ---
 
-###  GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushkumar912&theme=dracula" alt="Ayush's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushkumar912&theme=dracula" alt="Top Languages by Repo" />
+  <img src="https://streak-stats.demolab.com/?user=ayushkumar912&theme=dracula" alt="Ayush's GitHub Streak" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushkumar912&theme=dracula" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushkumar912&theme=dracula" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushkumar912&theme=dracula&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushkumar912&theme=dracula" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayushkumar912&theme=dracula" alt="Ayush's GitHub Streak" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=footer" width="100%"/>
