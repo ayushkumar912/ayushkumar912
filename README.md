@@ -31,7 +31,7 @@
 └─$ cat about.txt
 
   Name     : Ayush Kumar
-  Role     : Software Development Intern @ Carboledger
+  Role     : Ex Software Development Intern @ Carboledger
   College  : IIIT Vadodara — B.Tech CSE (Expected 2026)
   Focus    : Backend Systems | AI/ML | Competitive Programming
   Open To  : Full-Time SDE Roles (2026)
@@ -39,7 +39,7 @@
 ┌──(ayush㉿github)-[~]
 └─$ cat experience.txt
 
-  SDE Intern @ Carboledger (Jan 2026 – Present)
+  SDE Intern @ Carboledger (Jan 2026 – May 2026)
      └─ Multi-tenant ISCC compliance platform for enterprise
 
 ┌──(ayush㉿github)-[~]
