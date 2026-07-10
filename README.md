@@ -32,7 +32,7 @@
 
   Name     : Ayush Kumar
   Role     : Ex Software Development Intern @ Carboledger
-  College  : IIIT Vadodara — B.Tech CSE (Expected 2026)
+  College  : IIIT Vadodara — B.Tech CSE '26)
   Focus    : Backend Systems | AI/ML | Competitive Programming
   Open To  : Full-Time SDE Roles (2026)
 
