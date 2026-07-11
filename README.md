@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ayushkumar912" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/ayushkumar912" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:connect.ayushkumar912@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="https://ayushkumar912.github.io/ayush-kumar_Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ayushkumar912.pages.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://leetcode.com/u/ayush_kumar912/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="https://www.codechef.com/users/ayush_kumar198" target="_blank"><img src="https://img.shields.io/badge/CodeChef-3★%20|%20Max%201641-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </p>
