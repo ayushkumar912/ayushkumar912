@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <h1 align="center">Hi there, I'm Ayush Kumar 👋</h1>
-<h3 align="center">Early-Career | Execution-Focused | Backend & ML Engineer</h3>
+<h3 align="center">Early-Career | Execution-Focused </h3>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -32,9 +32,9 @@
 
   Name     : Ayush Kumar
   Role     : Ex Software Development Intern @ Carboledger
-  College  : IIIT Vadodara — B.Tech CSE (2026)
+  College  : IIIT Vadodara — B.Tech CSE
   Focus    : Backend Systems | AI/ML | Competitive Programming
-  Open To  : Full-Time SDE Roles (2026)
+  Open To  : Full-Time SDE Roles 
 
 ┌──(ayush㉿github)-[~]
 └─$ cat experience.txt
